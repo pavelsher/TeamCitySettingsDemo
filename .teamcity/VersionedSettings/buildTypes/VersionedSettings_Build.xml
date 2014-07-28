@@ -3,7 +3,7 @@
 
 <build-type>
   <name>Build</name>
-  <description />
+  <description>Some description</description>
   <settings>
     <parameters />
     <build-runners>
