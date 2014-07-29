@@ -2,7 +2,7 @@
 <!DOCTYPE vcs-root SYSTEM "../../../project-config.dtd">
 
 <vcs-root type="jetbrains.git">
-  <name>git@github.com:pavelsher/TeamCitySettingsDemo.git</name>
+  <name>TeamCity Settings</name>
   <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
   <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
   <param name="authMethod" value="TEAMCITY_SSH_KEY" />
